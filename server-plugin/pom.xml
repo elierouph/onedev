@@ -5,7 +5,7 @@
 	<packaging>pom</packaging>
 	<parent>
 		<groupId>io.onedev</groupId>
-		<artifactId>server</artifactId>
+		<artifactId>elierouph_onedev</artifactId>
 		<version>4.2.5</version>
 	</parent>
 	<dependencies>
