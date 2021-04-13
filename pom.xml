@@ -8,7 +8,7 @@
 		<artifactId>parent</artifactId>
 		<version>1.0.5</version>
 	</parent>
-	<artifactId>server</artifactId>
+	<artifactId>elierouph_onedev</artifactId>
 	<version>4.2.5</version>
 	<packaging>pom</packaging>
 	<build>
